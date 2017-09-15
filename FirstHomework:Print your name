@@ -5,4 +5,7 @@ Purpose:Write an Python Program which can print your name:
 //////////////////////////////
 # -*- coding: utf-8 -*-
 print("刘逸华")
+结果如下：
 
+![第一步](https://github.com/LouiVa/LOVE/raw/master/firstPy.png)
+![第二步](https://github.com/LouiVa/LOVE/raw/master/secondpy.png)
