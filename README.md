@@ -9,5 +9,5 @@
  [Third Homework](https://github.com/LouiVa/Computational_Physics_N2015301020128/blob/master/ThirdHomework.md)
  
  老师我的作业之后转到有道云笔记了，麻烦您了 = =
- [Fourth Homework](https://note.youdao.com/web/#/file/BE535B6875B146EB99DF5EF1938A3239/markdown/WEBe321fa0478e437b2a229ea81b6f873ce/)
+ [Fourth Homework](http://note.youdao.com/noteshare?id=c3f2765826b35b3bc4fcdd0e094cfdea)
  
