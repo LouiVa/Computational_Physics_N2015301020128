@@ -15,3 +15,6 @@
  
  
  [Sixth Homework](http://note.youdao.com/noteshare?id=da9e6d353895949f6cd620e357faf8bd)
+
+[Seventh Homework](http://note.youdao.com/noteshare?id=3fee178b92ca03deea6240c378b594ec)
+[Seventh Homeworke's Code](http://note.youdao.com/noteshare?id=6d384b8d2e2ae8b198820da3479a0c3b)
